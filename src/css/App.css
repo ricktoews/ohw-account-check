@@ -1,0 +1,28 @@
+.App {
+}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height: 50px;
+  line-height: 50px;
+  color: white;
+}
+
+.bootstrap-report {
+  width: 80%;
+  margin: auto;
+}
+
+.hamburger-menu {
+}
+.hamburger-menu span {
+  display: inline-block;
+  padding: 10px;
+}
+.hamburger-menu .option-hidden {
+  color: gray;
+}
+.hamburger-menu .option-available {
+  color: green;
+}
